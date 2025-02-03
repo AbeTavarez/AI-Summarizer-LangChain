@@ -1,6 +1,6 @@
 # Summarizer App with LangChain, OpenAI & Groq
 
-<!-- ![Chatbot Playground](./AI%20Stocks%20Application%20(12).png) -->
+![Chatbot Playground](./ai-summerizer.png)
 
 ## Description
 
@@ -8,9 +8,9 @@ Build a <b>Summarizer App</b> with LangChain, Python, Streamlit, OpenaAI,and Gro
 
 ### Follow the step-by-step tutorial here:
 
-<!-- <a href="https://youtu.be/ooeP4itiTIg">
+<a href="https://youtu.be/0DDwvq8DxH8?si=FAA9Ggoq_VD7lxmo">
     <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
-</a> -->
+</a>
 
 ## Cloning
 
